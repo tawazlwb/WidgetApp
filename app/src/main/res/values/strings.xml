@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">WidgetApp</string>
+    <string name="title_activity_my_app_widget_config">MyAppWidgetConfigActivity</string>
 </resources>
